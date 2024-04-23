@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin Chatbot AI</string>
+    <string name="error">Failed to get an answer</string>
+    <string name="button_ask">Ask BOT AI</string>
+    <string name="input_placeholder">Type in your question...</string>
+    <string name="copyright">©2024 Hytech Group</string>
+</resources>
