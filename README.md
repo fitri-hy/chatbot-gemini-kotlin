@@ -1,6 +1,8 @@
 # Webview Kotlin
 
  Simple Gemini Chatbot AI App Using Kotlin In Android Studio SDK 34
+
+ <img src="Screenshot.png"/>
  
 ## Instalation
 - Clone Repositories
